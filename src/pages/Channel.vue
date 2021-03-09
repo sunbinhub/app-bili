@@ -4,7 +4,7 @@
     <template v-slot:left>
       <Aside></Aside>
     </template>
-    <template v-slot:right> 主区域 </template>
+    <template v-slot:right> 右侧区域 </template>
   </Layout>
 </template>
 
